@@ -10,9 +10,7 @@ RESET = "\033[0m"
 
 os.system("chcp 1251 >nul")
 
-print(f"{GREEN}\nWindows 10/11 Activator by xselid")
-print("   xselid by xselid 😎\n" + RESET)
-
+print(f"{GREEN}\nWindows 10/11 Activator by xselid.ru")
 editions = {
     "1":  ("Home", "TX9XD-98N7V-6WMQ6-BX7FG-H8Q99"),
     "2":  ("Home N", "3KHY7-WNT83-DGQKR-F7HPR-844BM"),
@@ -91,6 +89,5 @@ os.system("slmgr /xpr")
 
 # Финал
 print(f"\n{GREEN}Спасибо за использование!")
-print("  xselid by xselid \n" + RESET)
 time.sleep(2)
 os.system("pause")
