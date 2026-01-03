@@ -183,7 +183,7 @@ WinsX/
 
 ## 📦 Скачать готовую сборку
 
-➡️ **[Скачать WinsX (.exe)](https://cloud.xselid.ru/download/WinsX)**  
+➡️ **[Скачать WinsX (.exe)](https://cdn.xselid.ru/download/winsx)**  
 
 ---
 
@@ -210,7 +210,7 @@ WinsX/
 
 ## 👤 Автор
 
-**xselid by xselid**  
+**XStudio • Xselid**
 🌐 **[XSELID.RU](https://www.xselid.ru)**  
 
 ---
