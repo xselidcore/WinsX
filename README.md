@@ -118,7 +118,7 @@ python main.py
 
 ### Запуск готового .exe файла
 
-1. Скачайте `WinsX.exe` с [официального сайта](https://cdn.xselid.ru/download/winsx)
+1. Скачайте `WinsX.exe` [Скачать](https://github.com/xselidcore/WinsX/releases)
 2. **Щелкните правой кнопкой** на файл и выберите **"Запуск от имени администратора"**
 3. Выберите нужную редакцию Windows из списка
 4. Дождитесь завершения процесса активации
@@ -183,7 +183,7 @@ WinsX/
 
 ## 📦 Скачать готовую сборку
 
-➡️ **[Скачать WinsX (.exe)](https://cdn.xselid.ru/download/winsx)**  
+➡️ **[Скачать WinsX (.exe)](https://github.com/xselidcore/WinsX/releases)**  
 
 ---
 
@@ -210,8 +210,8 @@ WinsX/
 
 ## 👤 Автор
 
-**XStudio • Xselid**
-🌐 **[XSELID.RU](https://www.xselid.ru)**  
+**Xselid.ru**
+🌐 **[XSELID.RU](https://xselid.ru)**  
 
 ---
 
